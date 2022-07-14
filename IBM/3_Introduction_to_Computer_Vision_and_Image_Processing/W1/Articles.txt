@@ -1,0 +1,9 @@
+Articles
+READINGS
+W​e encourage you take some time to explore the following two readings. These are just two of the countless ways in which Computer Vision continues to revolutionize industries across nearly every domain.
+
+IBM Research Releases ‘Diversity in Faces’ Dataset to Advance Study of Fairness in Facial Recognition Systems
+https://www.ibm.com/blogs/research/2019/01/diversity-in-faces/
+
+Abu Dhabi National Oil Company (ADNOC): Enhancing accuracy, consistency and speed of rock analysis to support better decisions
+https://www.ibm.com/case-studies/abu-dhabi-national-oil-company-adnoc
