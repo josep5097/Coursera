@@ -1,0 +1,15 @@
+Additional Reading: Links to read about important concepts
+K-Means Clustering
+Read an article by Ayush Kalla about K-Means Clustering:
+https://medium.datadriveninvestor.com/k-means-clustering-4a700d4a4720
+
+The Gap Statistic Method
+Read a paper by Robert Tibshirani, Guenther Walther, and Trevor Hastie on the Gap Statistic Method:
+https://statweb.stanford.edu/~gwalther/gap
+
+Read an article by Tim Lohr on K-Means Clustering and the Gap-Statistics:
+https://towardsdatascience.com/k-means-clustering-and-the-gap-statistics-4c5d414acd29
+
+Principal Component Analysis (PCA)
+Read an article by Zakaria Jaadi on A step-by-step explanation of Principal Component Analysis (PCA):
+https://builtin.com/data-science/step-step-explanation-principal-component-analysis
